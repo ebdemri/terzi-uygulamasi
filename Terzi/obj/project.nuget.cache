@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xy/+T3FpJxmHZW3UnJnks0UJznDJ0mrJYYXog5EkpYz5P5fcV1TIltkVl1aLk1ZKDZ0wY+hVsZAhXuR1db3wow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Barış\\source\\repos\\Terzi\\Terzi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Barış\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
